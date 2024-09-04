@@ -24,15 +24,19 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- .I learned how to use Git and GitHub for version control, including creating repositories, committing changes, and pushing updates to a remote repository.
+I became familiar with GitHub Classroom, which is a useful tool for managing assignments and receiving feedback in a structured way.
+I gained experience in using both GitHub Desktop and command line tools to manage my code and version control tasks.
 
 **I struggled with:** (repeat as needed)
-- .
+- .I struggled initially with the concept of committing versus pushing changes, which took some time to fully understand the distinction between local and remote actions.
+I found it challenging to navigate the GitHub Desktop interface and integrate it smoothly with Git commands.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- .Clarifying best practices for writing effective commit messages and organizing commits to maintain a clean and understandable project history.
+Offering additional guidance on handling and resolving merge conflicts, as this is an area where I feel I need more practice and understanding.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
 
 ## 📚 References and Citations
